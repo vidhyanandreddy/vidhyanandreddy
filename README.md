@@ -1,7 +1,5 @@
 # Welcome to Vidhyanand Reddy's GitHub Profile! 👋
 
-![Profile Banner](https://imagetolink.com/ib/mqFeYkPf3D)
-
 ## About Me
 I am a passionate full stack web developer with proficiency in various technologies including HTML, CSS, JavaScript, Bootstrap, React.js, Java, Python, SQL, and C. With a strong foundation in both frontend and backend development, I strive to create elegant and efficient solutions to complex problems.
 
