@@ -1,5 +1,10 @@
 # Welcome to Vidhyanand Reddy's GitHub Profile! 👋
 
+<div>
+  <img src="banner.jpg" alt="Typing GIF" width="100%"/>
+</div>
+
+
 ## About Me
 I am a passionate full stack web developer with proficiency in various technologies including HTML, CSS, JavaScript, Bootstrap, React.js, Java, Python, SQL, and C. With a strong foundation in both frontend and backend development, I strive to create elegant and efficient solutions to complex problems.
 
@@ -23,6 +28,8 @@ Here are some of the projects I've worked on:
 ## Contact Me
 Feel free to reach out to me via [email](mailto:vidhyanand067@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mulinti-vidhyanand-reddy-003553258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 You can also find me on:
+[![instagram](https://img.shields.io/badge/-Instagram-181717?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_vidhyanand_reddy?igsh=aGFobzlldnRodDl6)
+[![email](https://img.shields.io/badge/-Email-181717?style=flat&logo=gmail&logoColor=white)](vidhyanand067@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vidhyanandreddy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulinti-vidhyanand-reddy-003553258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
